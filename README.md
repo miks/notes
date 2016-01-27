@@ -2,7 +2,7 @@
 `perl -pi -e 's/old_string/new_string/g' file_pattern`
 
 # Local gem development
-`bundle config local.releaf ~/code/releaf`
+`bundle config local.releaf ~/code/releaf`  
 `bundle config --delete local.releaf`
 
 # Branch scoped database
